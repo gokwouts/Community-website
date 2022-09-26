@@ -77,4 +77,4 @@ After long playing in random server we decided it is time to make our own one. S
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
- * [Vladislav Karamfilov](https://github.com/gokwouts)
+ * [Gökw](https://github.com/gokwouts)
