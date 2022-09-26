@@ -77,6 +77,4 @@ After long playing in random server we decided it is time to make our own one. S
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
-Using [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-Core-Template) developed by:
- * [Nikolay Kostov](https://github.com/NikolayIT)
- * [Vladislav Karamfilov](https://github.com/vladislav-karamfilov)
+ * [Vladislav Karamfilov](https://github.com/gokwouts)
